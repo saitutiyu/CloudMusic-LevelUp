@@ -2,13 +2,13 @@
 import action
 
 infos = {
-    "phone": "",
-    "password": "",
+    "phone": "13355379535",
+    "password": "9103b4e46d7aa692e7e98f36ebf7d778",
     # "sc_key": ["XXXX"],
     # "tg_bot_key": ["XXXX", "XXXXX"],
     # "bark_key": ["XXXX"],
     # "wecom_key": ["XXXX", "XXXX", "XXXX"],
-    # "push_plus_key": ["XXXX"],
+     "push_plus_key": ["35629a7229e340f196f353a7fef0878a"],
 }
 
 
