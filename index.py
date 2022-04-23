@@ -8,7 +8,7 @@ infos = {
     # "tg_bot_key": ["XXXX", "XXXXX"],
     # "bark_key": ["XXXX"],
     # "wecom_key": ["XXXX", "XXXX", "XXXX"],
-    # "push_plus_key": ["XXXX"],
+    "push_plus_key": ["XXXX"],
 }
 
 def main_handler(event, context):
